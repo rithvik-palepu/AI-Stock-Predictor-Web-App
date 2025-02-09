@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
         loadingElement.style.display = "flex";
         imageElement.style.display = "none";
 
-        fetch("http://localhost:5000/predict", {
+        fetch("https://ai-stock-predictor-web-app.onrender.com/predict", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
