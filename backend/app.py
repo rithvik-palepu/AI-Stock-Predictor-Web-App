@@ -102,6 +102,10 @@ def fetch_and_predict(stock_ticker):
   plot_path = save_plot(original_data, predicted_data, stock_ticker)
   return plot_path
 
+@app.route('/')
+def home():
+    return "Welcome to the Stock Prediction Web App"
+
 @app.route('/predict', methods=['POST'])
 def predict():
     data = request.json
