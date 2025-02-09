@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "../../VolunteerConnect"
+		},
+		{
+			"path": "../../AINoteTaker"
+		},
+		{
+			"path": "../../VolunteerConnectApp"
+		},
+		{
+			"path": "../../htmlExample"
+		},
+		{
+			"path": "../../EvilHangman"
+		},
+		{
+			"path": "../../EvilHangmanProject"
+		},
+		{
+			"path": "../../pythonBlog"
+		},
+		{
+			"path": "../../Barbod Resume"
+		},
+		{
+			"path": "../../Delorean (js)"
+		},
+		{
+			"path": "../../Weather App"
+		},
+		{
+			"path": "../../Delorean"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

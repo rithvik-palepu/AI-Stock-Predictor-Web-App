@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Prediction</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>Stock Price Prediction</h2>
+
+        <div class="input-container">
+            <input type="text" id="stock-input" placeholder="Enter Stock Ticker (e.g., AAPL)">
+            <button id="submit-btn">Predict</button>
+        </div>
+
+        <div id="loading" class="hidden">
+            <div class="spinner"></div>
+            <p>Generating Prediction...</p>
+        </div>
+
+        <h3>Prediction Result:</h3>
+        <img id="stock-plot" alt="Stock prediction will appear here">
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
