@@ -1,2 +1,2 @@
 # AI-Stock-Predictor-Web-App
-AI web app that reads past trends of stocks and makes a prediction plotted onto a graph that is displayed to the user.
+AI web app that reads past trends of stocks and makes a prediction plotted onto a graph that is displayed to the user. Made using HTML, CSS, and JS in the frontend, Flask as the API, and python in the backend. Got to learn and use a lot of cool libraries like numpy, matplotlib, tensorflow, keras, and scikit learn. WARNING: Use this program at your own risk. While the program is pretty accurate, I would still consult an expert before making an investments based off of its predictions (ps- it works better with cyclical stocks :)). I am not liable for any harm caused by the results of this web app.
